@@ -101,7 +101,7 @@ Bp1=_ 0 "EMUL_CODE" "{$PROJ_DIR$\Common\Source\serial.c}.380.7" 0 0 1 "" 0 "" 0
 Bp2=_ 0 "EMUL_CODE" "{$PROJ_DIR$\Source\main.c}.260.10" 0 0 1 "" 0 "" 0
 Bp3=_ 0 "EMUL_CODE" "{$PROJ_DIR$\Source\main.c}.273.10" 0 0 1 "" 0 "" 0
 Bp4=_ 0 "EMUL_CODE" "{$PROJ_DIR$\Source\main.c}.254.7" 0 0 1 "" 0 "" 0
-Bp5=_ 1 "EMUL_CODE" "{$PROJ_DIR$\..\..\..\..\..\..\Data Sheets\Nordic\nRF51\SDKs\SDK 4.4.2\nrf51422\Board\pca10003\ant\ant_broadcast\broadcast_tx\main_broadcast_tx.c}.80.1" 0 0 1 "" 0 "" 0
+Bp5=_ 1 "EMUL_CODE" "{$PROJ_DIR$\..\..\..\Data Sheets\Nordic\nRF51\SDKs\SDK 4.4.2\nrf51422\Board\pca10003\ant\ant_broadcast\broadcast_tx\main_broadcast_tx.c}.80.1" 0 0 1 "" 0 "" 0
 Bp6=_ 1 "EMUL_CODE" "{$PROJ_DIR$\SDK\Include\s210\nrf_soc.h}.710.1" 0 0 1 "" 0 "" 0
 Count=7
 [Aliases]
