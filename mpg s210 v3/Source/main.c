@@ -39,7 +39,7 @@ uint32_t ulErrorCode;
 uint8_t ucEventChannel;
 uint8_t ucEventType;
 bool bAllowSleep = 0;
-bool bAllowSerialSleep = 0;
+bool bAllowSerialSleep = 1;
 ANT_MESSAGE *pstRxMessage;
 ANT_MESSAGE *pstTxMessage;
 
